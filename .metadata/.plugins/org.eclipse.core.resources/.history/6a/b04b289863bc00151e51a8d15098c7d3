@@ -1,0 +1,17 @@
+package com.example.core;
+
+public class MySqlTypeConvertor implements TypeConvertor {
+
+	@Override
+	public String databaseType2JavaType(String columnType) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String javaType2DatabaseType(String javaDataType) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

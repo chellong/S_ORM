@@ -1,0 +1,15 @@
+package com.example.core;
+
+public interface Query {
+	
+	/**
+	 * Ö´ÐÐDMLÓï¾ä
+	 * @param sql
+	 * @param parms
+	 * @return
+	 */
+	public int executeDML(String sql,Object[] parms);
+	
+	 
+
+}

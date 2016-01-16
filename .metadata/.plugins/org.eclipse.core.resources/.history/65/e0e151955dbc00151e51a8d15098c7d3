@@ -1,0 +1,21 @@
+package com.example.core;
+
+public interface Query {
+	
+	/**
+	 * 执行DML语句
+	 * 
+	 * @param sql
+	 * @param parms
+	 * @return
+	 */
+	public int executeDML(String sql,Object[] parms);
+	
+	/**
+	 * 将一个对象存到数据库中 
+	 * 
+	 * @param object
+	 */
+	public void insert(Object object);
+
+}

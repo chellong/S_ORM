@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.mysql.jdbc.StringUtils"/>
+<fullyQualifiedTypeName name="com.example.bean.Configuration"/>
+<fullyQualifiedTypeName name="com.example.bean.ColumnInfo"/>
+<fullyQualifiedTypeName name="com.example.bean.JavaFieldGetSet"/>
+<fullyQualifiedTypeName name="com.example.core.TypeConvertor"/>
+<fullyQualifiedTypeName name="com.example.bean.TableInfo"/>
+<fullyQualifiedTypeName name="com.example.core.DBManager"/>
+<fullyQualifiedTypeName name="com.example.core.TableContext"/>
+<fullyQualifiedTypeName name="com.example.util.StringUtils"/>
+<fullyQualifiedTypeName name="com.example.core.MySqlTypeConvertor"/>
+</qualifiedTypeNameHistroy>
