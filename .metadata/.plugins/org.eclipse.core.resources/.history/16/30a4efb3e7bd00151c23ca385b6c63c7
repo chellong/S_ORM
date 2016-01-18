@@ -1,0 +1,18 @@
+package com.example.sorm.core;
+
+public class QueryFactory {
+
+	public static QueryFactory factory = new QueryFactory();
+	
+	static {
+		try {
+			
+		} catch (Exception e) {
+		}
+	}
+	
+	private QueryFactory() {
+	}
+	
+	
+}

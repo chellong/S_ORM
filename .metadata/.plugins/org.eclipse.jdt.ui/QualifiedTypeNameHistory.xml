@@ -10,4 +10,20 @@
 <fullyQualifiedTypeName name="com.example.core.TableContext"/>
 <fullyQualifiedTypeName name="com.example.util.StringUtils"/>
 <fullyQualifiedTypeName name="com.example.core.MySqlTypeConvertor"/>
+<fullyQualifiedTypeName name="com.example.sorm.util.JDBCUtils"/>
+<fullyQualifiedTypeName name="com.example.sorm.core.QueryFactory"/>
+<fullyQualifiedTypeName name="com.example.sorm.bean.Configuration"/>
+<fullyQualifiedTypeName name="com.example.pool.DBConnPool"/>
+<fullyQualifiedTypeName name="com.example.sorm.util.StringUtils"/>
+<fullyQualifiedTypeName name="com.example.sorm.core.TableContext"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+<fullyQualifiedTypeName name="java.lang.Error"/>
+<fullyQualifiedTypeName name="java.lang.SuppressWarnings"/>
+<fullyQualifiedTypeName name="org.junit.Test"/>
+<fullyQualifiedTypeName name="com.example.sorm.core.Query"/>
+<fullyQualifiedTypeName name="org.junit.internal.runners.TestClass"/>
+<fullyQualifiedTypeName name="com.example.po.Emp"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
 </qualifiedTypeNameHistroy>

@@ -1,0 +1,36 @@
+package com.example.po;
+
+
+public class T_user {
+
+	private java.sql.Date regTime;
+	private Integer _id;
+	private String pwd;
+	private String username;
+
+
+	public java.sql.Date getRegTime(){
+		return regTime;
+	}
+	public Integer get_id(){
+		return _id;
+	}
+	public String getPwd(){
+		return pwd;
+	}
+	public String getUsername(){
+		return username;
+	}
+	public void setRegTime(java.sql.Date regTime){
+		this.regTime=regTime;
+	}
+	public void set_id(Integer _id){
+		this._id=_id;
+	}
+	public void setPwd(String pwd){
+		this.pwd=pwd;
+	}
+	public void setUsername(String username){
+		this.username=username;
+	}
+}
